@@ -1,5 +1,8 @@
 {
- "GAURAV001": true,
- "GAURAV002": true,
- "USER003": true
+ "GAURAV001": {
+   "active": true
+ },
+ "GAURAV002": {
+   "active": false
+ }
 }
