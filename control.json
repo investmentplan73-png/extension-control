@@ -1,0 +1,13 @@
+{
+  "extension_status": "on",
+  "keys": {
+    "ABC123": {
+      "expiry": "2026-12-31",
+      "device": "1"
+    },
+    "XYZ999": {
+      "expiry": "2026-05-01",
+      "device": "1"
+    }
+  }
+}
