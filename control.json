@@ -1,9 +1,6 @@
 {
- "extension":"off",
- "keys":{
-  "ABC123":{
-   "expiry":"2026-12-31",
-   "device":""
-  }
- }
+  "licenseKey": "ABC123",
+  "enabled": true,
+  "expiry": "2026-12-31",
+  "allowedDevices": ["device-Mozilla/5.0 ..."]
 }
