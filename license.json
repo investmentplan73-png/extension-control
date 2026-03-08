@@ -1,8 +1,15 @@
 {
  "GAURAV001": {
-   "active": true
+  "active": true,
+  "expiry": "2026-12-31",
+  "ip": "ANY",
+  "maxUsers": 2
  },
+
  "GAURAV002": {
-   "active": true
+  "active": true,
+  "expiry": "2026-08-01",
+  "ip": "49.36.120.10",
+  "maxUsers": 1
  }
 }
