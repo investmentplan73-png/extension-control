@@ -1,6 +1,6 @@
 {
  "GAURAV001": {
-  "active": true,
+  "active": false,
   "expiry": "2026-12-31",
   "ip": "ANY",
   "maxUsers": 2
