@@ -1,6 +1,6 @@
 {
   "licenseKey": "ABC123",
-  "enabled": true,
+  "enabled": false,
   "expiry": "2026-12-31",
   "allowedDevices": ["device-Mozilla/5.0 ..."]
 }
